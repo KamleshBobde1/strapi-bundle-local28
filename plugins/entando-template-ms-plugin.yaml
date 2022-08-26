@@ -1,4 +1,4 @@
-image: kamleshbobde/entando-strapi-bundle:1.0.0
+image: kamleshbobde/entando-strapi-bundle:2.0.0
 dbms: postgresql
 ingressPath: "/entando-strapi-api"
 healthCheckPath: "/api/actuator/health"
